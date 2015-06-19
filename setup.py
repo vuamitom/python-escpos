@@ -3,8 +3,8 @@
 from distutils.core import setup
 
 setup(
-    name='escpos',
-    version='1.0-4',
+    name='win-escpos',
+    version='1.0.0',
     url='https://github.com/manpaz/python-escpos',
     download_url='https://github.com/manpaz/python-escpos.git',
     description='Python library to manipulate ESC/POS Printers',
